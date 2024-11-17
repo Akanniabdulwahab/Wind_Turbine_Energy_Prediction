@@ -1,2 +1,2 @@
 # Wind_Turbine_Energy_Prediction
-![image](https://github.com/user-attachments/assets/633aa932-44ca-4916-a597-cc422911ac94)
+![Logo_Green_Transparent](https://github.com/user-attachments/assets/f4fe13b8-1cd2-4450-b17c-d1ac93a5a25f)
