@@ -1,2 +1,2 @@
 # Wind_Turbine_Energy_Prediction
-Clean Energy Innovations Inc. is embarking on a mission to develop predictive models for their wind turbine system
+![image](https://github.com/user-attachments/assets/633aa932-44ca-4916-a597-cc422911ac94)
