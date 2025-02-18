@@ -1,5 +1,6 @@
 # Wind_Turbine_Energy_Prediction
-![Logo_Green_Transparent](https://github.com/user-attachments/assets/f4fe13b8-1cd2-4450-b17c-d1ac93a5a25f)
+
+![image](https://github.com/user-attachments/assets/8ebb4d60-84df-4b17-9e6b-a8c0a0260799)
 
 ## Table of Cotents
 - [Project Overview](#project-overview)
